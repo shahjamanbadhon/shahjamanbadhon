@@ -92,9 +92,6 @@
 [![Deep Learning Specialization](https://img.shields.io/badge/Coursera-Deep_Learning_Specialization-0056D2?style=flat)](https://www.coursera.org/specializations/deep-learning)
 [![Data Science Professional](https://img.shields.io/badge/IBM-Data_Science_Professional-052FAD?style=flat)](https://www.coursera.org/professional-certificates/ibm-data-science)
 
-## 🐍 Contribution Graph
-![Contribution Snake](https://raw.githubusercontent.com/shahjamanbadhon/shahjamanbadhon/output/github-contribution-grid-snake.svg)
-
 ## 📫 Let's Connect!
 - ✉️ Email: [shahjaman.badhon.bd@gmail.com](mailto:shahjaman.badhon.bd@gmail.com)
 - 💼 LinkedIn: [Shahjaman Badhon](https://www.linkedin.com/in/shahjaman/)
