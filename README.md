@@ -89,7 +89,7 @@
 - Generative AI
 
 ## 🏆 Certifications & Badges
-[![Deep Learning Specialization](https://img.shields.io/badge/Coursera-Deep_Learning_Specialization-0056D2?style=flat)](https://www.coursera.org/specializations/deep-learning)
+[![Supervised Machine Learning: Regression and Classification](https://img.shields.io/badge/Coursera-Supervised_Machine_Learning:_Regression_and_Classification-0056D2?style=flat)](https://www.coursera.org/account/accomplishments/verify/GMCXWR5VWLH1)
 [![Data Science Professional](https://img.shields.io/badge/IBM-Data_Science_Professional-052FAD?style=flat)](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 ## 📫 Let's Connect!
