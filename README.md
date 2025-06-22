@@ -9,11 +9,12 @@
 </div>
 
 
-
+<!--
 ## 🔥 AI/ML Specializations
 - Neural Networks | Computer Vision | NLP 
 - Predictive Modeling | Generative AI
 - Data Analysis | Big Data Processing
+-->
 
 ### 🛠️ Tech Stack
 
