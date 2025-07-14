@@ -14,7 +14,7 @@
 - Neural Networks | Computer Vision | NLP 
 - Predictive Modeling | Generative AI
 - Data Analysis | Big Data Processing
--->
+
 
 ### 🛠️ Tech Stack
 
@@ -88,6 +88,8 @@
 - Natural Language Processing
 - Reinforcement Learning
 - Generative AI
+-->
+
 
 ## 🏆 Certifications & Badges
 [![Supervised Machine Learning: Regression and Classification](https://img.shields.io/badge/Coursera-Supervised_Machine_Learning:_Regression_and_Classification-0056D2?style=flat)](https://www.coursera.org/account/accomplishments/verify/GMCXWR5VWLH1)
