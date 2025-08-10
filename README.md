@@ -96,10 +96,6 @@
 
 [![Advanced Learning Algorithms](https://img.shields.io/badge/Coursera-Advanced_Learning_Algorithms-0056D2?style=flat)](https://www.coursera.org/account/accomplishments/verify/S2W2UULM7ILI)
 
-
-http://coursera.org/account/accomplishments/verify/S2W2UULM7ILI
-[![Data Science Professional](https://img.shields.io/badge/IBM-Data_Science_Professional-052FAD?style=flat)](https://www.coursera.org/professional-certificates/ibm-data-science)
-
 ## 📫 Let's Connect!
 - ✉️ Email: [shahjaman.badhon.bd@gmail.com](mailto:shahjaman.badhon.bd@gmail.com)
 - 💼 LinkedIn: [Shahjaman Badhon](https://www.linkedin.com/in/shahjaman/)
